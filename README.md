@@ -1,5 +1,5 @@
 # bdzmvc
-* php最简单的mvc框架,基于composer,orm层和View层使用的是larvael中的
+## php最简单的mvc框架,基于composer,orm层和View层使用的是larvael中的
 ### 目录介绍
 #### app
 * --controllers    控制器  BaseController 可以被用来继承,属性的view是用来include视图view层的
